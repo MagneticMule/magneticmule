@@ -1,2 +1,1 @@
-# magneticmule
-The magneticmule.com website. Made with love and biscuits.
+Magnetic Mule --- The Super Duper Home Page!
